@@ -1,4 +1,4 @@
-# Release & User Guide: Krosly (Wakfu Tracker) [Check Discord](https://discord.gg/BD6NzcXdM)
+# Get more info [Check Discord](https://discord.gg/BD6NzcXdM)
 
 [![Plataformas](https://img.shields.io/badge/Plataformas-Windows-blue)](https://github.com)
 [![Versión](https://img.shields.io/badge/Versión-1.0.0--beta.1-orange)](https://github.com)
