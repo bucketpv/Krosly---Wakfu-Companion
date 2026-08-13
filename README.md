@@ -1,7 +1,7 @@
 # Get more info [Check Discord](https://discord.gg/BD6NzcXdM)
 
 [![Plataformas](https://img.shields.io/badge/Plataformas-Windows-blue)](https://github.com)
-[![Versión](https://img.shields.io/badge/Versión-1.0.0--beta.1-orange)](https://github.com)
+[![Versión](https://img.shields.io/badge/Versión-1.0.0--beta.2-orange)](https://github.com)
 [![Idiomas](https://img.shields.io/badge/Idiomas-Español_%7C_Inglés_%7C_Francés_%7C_Portugués-brightgreen)](https://github.com)
 
 **Krosly** es una aplicación de escritorio gratuita diseñada para ayudarte a monitorizar tu progreso en el MMORPG **WAKFU**. Funciona leyendo en tiempo real el archivo de registros (*log*) que genera el cliente del juego, mostrando métricas avanzadas y estadísticas mediante un panel de control interactivo (*Dashboard*) y una interfaz superpuesta transparente (*HUD Overlay*).
