@@ -74,10 +74,7 @@ graph TD
 2. Descarga el instalador (`krosly_1.0.0-beta.1_x64-setup.exe`).
 3. Ejecuta el instalador y sigue las instrucciones en pantalla.
 4. Inicia Krosly desde el acceso directo creado en el menú de inicio o en el escritorio.
-
-> [!WARNING]
-> Al iniciar la aplicación por primera vez, es posible que observes un **breve flash blanco**. Esto es un comportamiento normal del WebView al cargar la interfaz y será corregido en una futura actualización para una experiencia más pulida.
-
+5. 
 ---
 
 ## 📖 Guía de Primer Uso
