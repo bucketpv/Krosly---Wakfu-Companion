@@ -114,10 +114,9 @@ graph TD
 ## 🌐 Idiomas Soportados
 
 * 🇪🇸 **Español:** Disponible y completo.
-* 🇬🇧 **Inglés:** Funcional (detección de eventos y backend). La interfaz de usuario está en fase de pulido; se agradece feedback para completar las traducciones.
-* 🇫🇷 **Francés:** Funcional (detección de eventos y backend). La interfaz de usuario está en fase de pulido; se agradece feedback para completar las traducciones.
-* 🇵🇹 **Portugués:** Funcional (detección de eventos y backend). La interfaz de usuario está en fase de pulido; se agradece feedback para completar las traducciones.
-
+* 🇬🇧 **Inglés:** Disponible y completo.
+* 🇫🇷 **Francés:** Disponible y completo.
+* 🇵🇹 **Portugués:** Disponible y completo.
 ---
 
 ## ⚖️ Aviso Legal
